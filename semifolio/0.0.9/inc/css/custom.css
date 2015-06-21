@@ -1,0 +1,47 @@
+#masthead,
+.site-footer,
+.blog-home .home-post .home-post-content .readmore,
+.hentry .entry-content a.readmore,
+#comments #respond p.form-submit input,
+#secondary .widget_tag_cloud a
+{
+	background: #424242!important;
+}
+
+
+#comments #respond p.form-submit input
+{
+	border-color:#424242!important;
+}
+
+#footer-widgets,
+.welcome-box,
+.portfolio-home,
+.title-header,
+.hentry .entry-footer,
+#secondary .widget,
+.portfolio-meta
+{
+	background: #ededed;
+}
+
+
+
+/* Links */
+
+a, .hentry .entry-header .entry-meta span {
+	color: #e85500;
+}
+
+a:visited {
+	color: #e85500;
+}
+
+a:hover,
+a:focus,
+a:active {
+	color:#111111;
+	text-decoration: none;
+}
+
+
